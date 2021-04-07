@@ -1,0 +1,5 @@
+# install torch==1.6 manually first (pip does not install CUDA-specific version)
+
+datasets==1.2.0
+scikit-learn==0.24.0
+transformers==4.0.1
